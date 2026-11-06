@@ -5,8 +5,7 @@
 - João Pedro do Nascimento Seixas<br>
 - José Henrique da Cruz Costa<br>
 - John Kennedy de Almeida Castro<br>
-- Livia Karolina Gomes do Nascimento<br>
-- Lorenzo Augusto da Costa Freitas<br><br>
+- Livia Karolina Gomes do Nascimento<br><br>
 
 Explicação do Código:<br>
 ### **Arquitetura e Parâmetros**
