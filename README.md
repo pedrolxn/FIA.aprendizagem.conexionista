@@ -10,7 +10,7 @@
 
 Explicação do Código:<br>
 ### **Arquitetura e Parâmetros**
-É uma rede neural com 2 camadas, configurada da seguinte forma:<br><br>
+É uma rede neural com 2 camadas, configurada da seguinte forma:<br>
 
 **Tamanho do lote (N):** são processados 64 exemplos ao mesmo tempo.<br>
 **Entrada (D_in):** os dados recebidos têm 1000 dimensões.<br>
@@ -20,7 +20,7 @@ Explicação do Código:<br>
 **Taxa de aprendizado:** fixada em 1e-4 (0.0001), usada na atualização dos pesos.<br><br>
 
 ### **Etapas do Treinamento**
-O código se organiza em quatro partes principais:<br><br>
+O código se organiza em quatro partes principais:<br>
 
 **Definição da rede:** estabelece o tamanho das camadas e cria as matrizes dos dados de entrada (x), das saídas alvo (y) e dos pesos (w1, w2), todos com valores aleatórios.<br>
 **Forward pass (Propagação):** gera a previsão da rede ao calcular os valores da camada oculta (com a função sigmoide) e da saída. Depois, mede o erro (loss) ao comparar o resultado obtido com o alvo esperado.<br>
